@@ -1,0 +1,16 @@
+{
+  "name": "js-kit",
+  "version": "0.1.0",
+  "description": "Helper functions for all sorts of specialised tasks, split up for requiring only what you need.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "find test -name '*.js' -exec mocha {} \\;"
+  },
+  "author": "Offsider",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1",
+    "swift-check": "^0.3.0"
+  }
+}
