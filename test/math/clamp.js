@@ -1,4 +1,4 @@
-var clamp = require("../../src/math/clamp");
+var clamp = require("../../math/clamp");
 var expect = require("chai").expect;
 var SwiftCheck = require("swift-check");
 var Gen = SwiftCheck.Gen;

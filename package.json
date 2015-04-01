@@ -1,8 +1,8 @@
 {
   "name": "js-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helper functions for all sorts of specialised tasks, split up for requiring only what you need.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "find test -name '*.js' -exec mocha {} \\;"
   },

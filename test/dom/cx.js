@@ -1,4 +1,4 @@
-var cx = require("../../src/dom/cx");
+var cx = require("../../dom/cx");
 var expect = require("chai").expect;
 var SwiftCheck = require("swift-check");
 var Gen = SwiftCheck.Gen;
